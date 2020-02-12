@@ -1,0 +1,22 @@
+h1 {
+    color: brown;
+}
+
+
+    
+
+.header{
+    background-color: rgb(95, 116, 160);
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color:#ff0022
+
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+margin-block-start: auto;
+}
